@@ -1,3 +1,10 @@
+# Just Some AW2 Rom Hack
+Just messing arounf with Advance Wars 2: Black Hole Rising rom hacking, using XenisXenon's base
+My plans to maybe balance COs and possibly add in some new ones (and units too!)
+This probably won't get updated much, largely because I have other projects that I'm working on
+
+All credits go to the XenesisXenon's [original project](https://github.com/XenesisXenon/AW2-InfiniteCOs), and their original README, as well as how to setup this project if you for some reason want to use it as a base yourself, is available bellow:
+
 # Infinite COs Project for Advance Wars 2: Black Hole Rising
 
 This is a massive expansion and partial disassembly/reimplementation project of Advance Wars 2. It provides a lot of expanded functionality and content.
